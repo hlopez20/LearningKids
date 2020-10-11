@@ -77,10 +77,15 @@ Route::get('chistes', function () {
 /*pantalla de la clase de ciencias sociales*/
 
 Route::get('cienciasSociales', function () {
-    return view('Español/pantallaPrincipalDeCienciasSociales');
+    return view('Ciencias Sociales/pantallaPrincipalDeCienciasSociales');
 });
 
 
+/* rutas de ciencias naturales*/
+
+Route::get('cienciasNaturales', function () {
+    return view('Ciencias Naturales/pantallaPrincipalDeCienciasNaturales');
+});
 
 
 

@@ -206,12 +206,16 @@
         </div>
         <div class="row">
             <div class="col-md-6">
+                <a href="http://learningkids.test/cienciasNaturales">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/JtktKHb/ciencias-naturales-removebg-preview.png" class=" img-fluid  img-thumbnail  mx-auto d-block bg-success rounded-circle" width="150" />
                 <h3>Ciencias Naturales</h3>
+                </a>
             </div>
             <div class="col-md-6">
+                <a href="http://learningkids.test/cienciasSociales">
                 <img src="https://i.ibb.co/3Cvms5x/kisspng-social-studies-clip-art-classroom-clipart-5b5696970d53c2-5022800115324013030546-removebg-pre.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-warning rounded-circle" width="150"/>
                 <h3>Ciencias Sociales</h3>
+                    </a>
             </div>
         </div>
 
