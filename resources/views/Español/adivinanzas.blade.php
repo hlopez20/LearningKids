@@ -54,7 +54,7 @@
 <!-- navbar -->
 <nav class="navbar navbar-expand-sm navbar-dark " >
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="http://learningkids.test/pantallaPrincipal">
             <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="100">
         </a>
 
@@ -64,7 +64,7 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
