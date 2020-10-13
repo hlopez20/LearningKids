@@ -86,6 +86,37 @@ Route::get('cienciasSociales', function () {
 Route::get('cienciasNaturales', function () {
     return view('Ciencias Naturales/pantallaPrincipalDeCienciasNaturales');
 });
+Route::get('/tipoDeCuento','españolController@index')->name('español.index');
+Route::get('/cuento',function (){
+    return view('Español/cuento');
+});
+Route::get('/cuentoFantastico',function (){
+    return view('Español/cuentosFantasticos');
+});
+Route::get('/cuentoInfantiles',function (){
+    return view('Español/cuentosInfantiles');
+});
+Route::get('/cuentoRealista',function (){
+    return view('Español/cuentosRealistas');
+});
+Route::get('/cuentoTerror',function (){
+    return view('Español/cuentosTerror');
+});
+Route::get('/cuentoNavidad',function (){
+    return view('Español/cuentoNavidad');
+});
+Route::get('/cuentoPoliciales',function (){
+    return view('Español/cuentosPoliciales');
+});
+Route::get('/cuentoAventuras',function (){
+    return view('Español/cuentosAventuras');
+});
+Route::get('/cuentoDormir',function (){
+    return view('Español/CuentosParaDormir');
+});
+Route::get('/pantallaClaseMat',function (){
+    return view('Matematicas/pantallaClaseMat');
+});
 
 
 
