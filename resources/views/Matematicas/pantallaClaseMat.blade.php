@@ -50,6 +50,7 @@
 
         }
 
+
     </style>
 
 </head>
@@ -60,7 +61,7 @@
 <!-- Navbar-->
 <nav class="navbar navbar-expand-sm navbar-dark " >
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="http://learningkids.test/pantallaPrincipal">
             <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
         </a>
 
@@ -71,10 +72,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasSociales">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
@@ -163,6 +164,8 @@
 
     <!-- botones-->
 
+    <!--
+
     <div class="container-fluid">
 
 
@@ -198,7 +201,9 @@
                 <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/YbJVtYV/resta-removebg-preview.png"   class="rounded-circle mx-auto d-block  bg-white" width="150"  /><h3>Restas</h3>
             </div>
 
-            <!-- imagen del centro de todos los botones-->
+
+
+
             <div class="col-4">
                 <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"  class=" mx-auto d-block" width="450"  />
             </div>
@@ -206,23 +211,38 @@
                 <img alt="Bootstrap Image Preview"  src="https://arbolabc.nyc3.cdn.digitaloceanspaces.com/New-Math-Area-Icons/Juegos_de_sumas.jpg"  class="rounded-circle mx-auto d-block bg-white " width="150"  /><h3>Sumas</h3>
             </div>
         </div>
+
         <div class="row">
-            <div class="col-md-5">
-                <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-white" width="150" /><h3>Relacion de Objetos</h3>
+            <div class="col-md-3">
+                <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle  bg-white" width="150" /><h3>Relacion de Objetos</h3>
             </div>
 
-            <div class="col-md-7 pl-5 ">
+            <div class="col-md-3">
+            </div>
+
+            <div class="col-md-3 pl-5 ">
                 <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/0BkzSGt/coleccion-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-white " width="150"  ><h3>Las líneas</h3>
             </div>
 
-            <div class="col-md-6 ">
+            <div class="col-md-3">
+            </div>
+        </div>
+
+
+
+            <div class="row">
+
+            <div class="col-md-3 ">
                 <img alt="Bootstrap Image Preview"   src="https://i.ibb.co/zG6gz8B/sfn-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-white " width="150"  ><h3>Mayor que, Menor que</h3>
             </div>
 
-            <div class="col-md-4 pl-5">
+            <div class="col-md-3 pl-5">
                 <img alt="Bootstrap Image Preview"   src="https://i.ibb.co/MngXsLY/coins-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-white " width="150" /><h3>La Moneda</h3>
             </div>
         </div>
+        </div>
+
+
         <div class="container-fluid">
             <div class="row mb-n5">
                 <div class="col-md-11">
@@ -242,6 +262,85 @@
 
 
         </div>
+
+        -->
+
+    <div class="container-fluid" style="background: #FEB472">
+        <div class="row  pb-5">
+            <div class="col-md-12">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s2k0frX/Iconos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info color2" width="150"><h3>Figuras Geometrica</h3>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid" style="background: #FEB472">
+        <div class="row pb-5">
+            <div class="col-md-6">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Numeros Naturales</h3>
+            </div>
+            <div class="col-md-6">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Numeros ordinales</h3>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid"style="background: #FEB472">
+        <div class="row">
+            <div class="col-md-4 pb-5">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/YbJVtYV/resta-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Restas</h3>
+            </div>
+            <div class="col-md-4">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"   class="mx-auto d-block" width="450" >
+            </div>
+            <div class="col-md-4">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://arbolabc.nyc3.cdn.digitaloceanspaces.com/New-Math-Area-Icons/Juegos_de_sumas.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Sumas</h3>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid" style="background: #FEB472">
+        <div class="row pb-5">
+            <div class="col-md-3">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle  mx-auto d-block bg-info" width="150"><h3>Relacion Objetos</h3>
+            </div>
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-3 pb-5">
+
+            </div>
+            <div class="col-md-3">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/0BkzSGt/coleccion-removebg-preview.png"  class="rounded-circle  mx-auto d-block  bg-info" width="150"><h3>Las lineas</h3>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid" style="background: #FEB472">
+        <div class="row ">
+            <div class="col-md-4  ">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/zG6gz8B/sfn-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Menor que <br>y <br> mayor que </h3>
+            </div>
+            <div class="col-md-4 pb-5">
+
+            </div>
+            <div class="col-md-4" align="right">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/MngXsLY/coins-removebg-preview.png"     class="rounded-circle mx-auto d-block bg-info"width="150"><h3>La moneda</h3>
+            </div>
+        </div>
+        <div class="container-fluid" style="background: #FEB472">
+            <div class="row  pb-5">
+                <div class="col-md-12">
+                    <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/8KYJhD6/metro-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Longitud</h3>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
 
     </div>
     <div id="separadorInferior2">

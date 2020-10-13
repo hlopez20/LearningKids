@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
+   <title>Ciencias Sociales</title>
     <style>
         .navbar{
             background: #60A71B;
@@ -45,7 +45,7 @@
 <!-- Navbar-->
 <nav class="navbar navbar-expand-sm navbar-dark " >
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="http://learningkids.test/pantallaPrincipal">
             <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
         </a>
 
@@ -56,10 +56,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasNaturales">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
@@ -200,7 +200,7 @@
     </div>
     <div class="container-fluid" style="background: #B8DA97">
         <div class="row ">
-            <div class="col-md-4 ">
+            <div class="col-md-4  ">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/3RqB5sL/diseno-medios-transporte-1196-141.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Medios de Transpote</h3>
             </div>
             <div class="col-md-4 pb-5">
@@ -209,7 +209,8 @@
             <div class="col-md-4" align="right">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/SsD9Rmq/estaciones-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Estaciones del año</h3>
             </div>
-        </div><div class="container-fluid" style="background: #B8DA97">
+        </div>
+        <div class="container-fluid" style="background: #B8DA97">
             <div class="row  pb-5">
                 <div class="col-md-12">
                     <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s35TyZD/comuni.jpg"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Medios de comunicación</h3>

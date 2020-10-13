@@ -54,10 +54,10 @@
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasSociales">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
@@ -69,7 +69,7 @@
 <div class="container-fluid">
     <div class="row" id="fondo">
         <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img  <img src="https://i.ibb.co/BVnXLvN/grupo-ninos-graciosos-saltando-29937-5030-removebg-preview.png"    class=" mx-auto d-block"/>
+            <img  src="https://i.ibb.co/BVnXLvN/grupo-ninos-graciosos-saltando-29937-5030-removebg-preview.png"    class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -93,179 +93,177 @@
                 Contiene un juego verbal o conceptual capaz de mover a risa y fundado en el humor.
             </em></strong> </p>
 </div>
-</div>
-</div>
 
 
 
 <!-- tarjetas tipos de cuentos -->
-<div class="row"  style="background: #bce0ee" >
-    <!-- tarjeta1 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card" style="width: 18rem;">
-            <img src="https://i.ibb.co/0n1bJXt/doc3.jpg" alt="doc3" class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center">Era una señora que va al medico y le dice:
-                    <br>
-                    - Doctor me siento mal.<br>
-                    Y el médico le contesta:
-                    - Pues siéntese bien, mujer.
-                    <br>
+<div class="container-fluid">
+    <div class="row"  style="background: #bce0ee" >
+        <!-- tarjeta1 -->
+        <div class="col-md-3 pb-3" >
+            <div class="card" style="width: 18rem;">
+                <img src="https://i.ibb.co/0n1bJXt/doc3.jpg" alt="doc3" class="card mx-auto d-block"   height="150" width="200">
+                <div class="card-body">
+                    <h5 class="card-title" align="center">Era una señora que va al medico y le dice:
+                        <br>
+                        - Doctor me siento mal.<br>
+                        Y el médico le contesta:
+                        - Pues siéntese bien, mujer.
+                        <br>
+                    </h5>
+                </div>
+                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+            </div>
+        </div>
+        <!-- tarjeta2 -->
+        <div class="col-md-3">
+            <div class="card" style="width: 18rem;">
+                <img src="https://i.ibb.co/h8Q1q6D/doc5.jpg" alt="doc5"  class="card mx-auto d-block"   height="150" width="200">
+                <div class="card-body">
+                    <h5 class="card-title" align="center">- ¡Doctor, doctor, tengo un hueso afuera! <br>
+                        Y el doctor le dice:<BR>
+                        - Pues hágalo pasar, por favor.
+                        <br>
+                    </h5>
+                </div>
+                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
+            </div>
+        </div>
+        <!-- tarjeta3 -->
+        <div class="col-md-3">
+            <div class="card" style="width: 18rem;">
+                <img   src="https://i.ibb.co/Np55gL8/doc6.jpg" alt="doc6"  class="card mx-auto d-block"   height="150" width="200">
+                <div class="card-body">
+                    <h5 class="card-title" align="center">- Doctor, doctor,<br> ¿qué puedo hacer para que me hijo no se orine en la cama?
+                        - Que se duerma en el baño.</h5>
+                </div>
+                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+            </div>
+        </div>
+        <!-- tarjeta4 -->
+        <div class="col-md-3">
+            <div class="card" style="width: 18rem;">
+                <img src="https://i.ibb.co/VDNrYGk/doc4-removebg-preview.png"  class="card mx-auto d-block"   height="150" width="200">
+                <div class="card-body">
+                    <h5 class="card-title" align="center">- Doctor<br>, ¿Cómo conservo el poco pelo que me queda?<br>
+                        - Fácil, métalo en una cajita.</h5>
+                </div>
+                <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+            </div>
+        </div>
 
-                </h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
+        <!-- tarjeta5 -->
+        <div class="container-fluid">
+            <div class="row" style="background: #bce0ee">
+                <div class="col-md-3 pb-3">
+                    <div class="card" style="width: 18rem;">
+                        <img  src="https://i.ibb.co/FwPC45g/maes.jpg" alt="maes" class="card mx-auto d-block"  height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center">Jaimito le pregunta a la maestra:
+                                - Maestra, ¿usted me castigaría por algo que yo no hice?
+                                - Claro que no, Jaimito.
+                                -  Ahh, pues que bueno, porque yo no hice mi tarea.</h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+                <!-- tarjeta6 -->
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img   src="https://i.ibb.co/NCQS6Dw/maes2.jpg" alt="maes2"  class="card mx-auto d-block"   height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center">- A ver Jaimito, <BR>dime una palabra que tenga 5 ies.<BR>
+                                Y Jaimito le responde:<BR>
+                                - Pero profesora, eso es dificilísimo.<BR>
+                                - Muy bien Jaimito, muy bien.</h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+                <!-- tarjeta7 -->
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://i.ibb.co/92DGJJk/maes3.jpg" alt="maes3" class="card mx-auto d-block"  height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center"> El profesor de lengua descubre a María distraída mirando por la ventana. Se dirige a ella y le pregunta:
+                                - A ver, María, dime dos pronombres.
+                                - ¿Quién? ¿Yo?</h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+                <!-- tarjeta8 -->
+                <div class="col-md-3">
+                    <div class="card " style="width: 18rem;">
+                        <img  src="https://i.ibb.co/R753RXv/maes4.jpg" alt="maes4"  class="card mx-auto d-block"  height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center"> La profesora a Pepito:<BR>
+                                <BR> - Pepito,<BR> ¿no te da vergüenza ser el último de la clase?<BR>
+                                <BR>- Alguien debe sacrificarse... </h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1mxMn5XuboDessRU39nReOG-ro3mWnskC/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <!-- tarjeta9 -->
+            <div class="row" style="background: #bce0ee">
+                <div class="col-md-3 pb-3">
+                    <div class="card" style="width: 18rem;">
+                        <img   src="https://i.ibb.co/pnVkFvg/pioj.jpg" alt="pioj"  class="card mx-auto d-block"   height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center"> Están dos piojos en la cabeza de un señor calvo,<br> y uno le dice al otro:
+                                <br>- Alfredo, vámonos de aquí que este terreno ya está pavimentado.</h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1Zk0a1p1Xwu94eKSfKF93R9dUi658W0A1/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+                <!-- tarjeta10 -->
+                <div class="col-md-3 " >
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://i.ibb.co/dtRrCZV/riendo2.jpg" alt="riendo2" class="card mx-auto d-block"  height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center"> <br> - ¿Qué le dice un gusano a otro gusano?<br>
+                                <br> - Me voy a dar una vuelta a la manzana.</h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1d0j1c4gocviwV_AlJTKMW8VeLm5WNoGc/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+                <!-- tarjeta11 -->
+                <div class="col-md-3 ">
+                    <div class="card" style="width: 18rem;">
+                        <img  src="https://i.ibb.co/pWCKh5v/riendo4.jpg" alt="riendo4"   class="card mx-auto d-block"   height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center"> <br>Un ratón le dice a una rata:<br>
+                                - ¿Qué haces ahí sentada?<br>
+                                - Estoy esperando un ratito<br></h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1MhPquPBAuESjWZ_5KR9EONp0ZmcmX1jA/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
+                <!-- tarjeta12 -->
+                <div class="col-md-3 ">
+                    <div class="card " style="width: 18rem;">
+                        <img src="https://i.ibb.co/rxPqG44/roendo6.jpg" alt="roendo6" class="card mx-auto d-block"  height="150" width="200">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center"> <br><br>-¿Qué le dice un pato a otro pato?<br>
+                                <br>¡Estamos empatados!<br></h5>
+                        </div>
+                        <iframe src="https://drive.google.com/file/d/1Hz2SRP7Ee-xJhnXiWhYOenEeCWtRWmZ4/preview" width="280" height="100"></iframe>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    <!-- tarjeta2 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://i.ibb.co/h8Q1q6D/doc5.jpg" alt="doc5"  class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center">- ¡Doctor, doctor, tengo un hueso afuera! <br>
-                    Y el doctor le dice:<BR>
-                    - Pues hágalo pasar, por favor.
-                    <br>
 
-                </h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta3 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
-            <img   src="https://i.ibb.co/Np55gL8/doc6.jpg" alt="doc6"  class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center">- Doctor, doctor,
-                    ¿qué puedo hacer para que me hijo no se orine en la cama?
-                    - Que se duerma en el baño.</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta4 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://i.ibb.co/VDNrYGk/doc4-removebg-preview.png"  class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center">- ¡Doctor, doctor, tengo un hueso afuera!<BR>
-                    Y el doctor le dice:<BR>
-                    - Pues hágalo pasar, por favor.</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- tarjeta5 -->
-<div class="row" style="background: #bce0ee">
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
-            <img  src="https://i.ibb.co/FwPC45g/maes.jpg" alt="maes" class="card mx-auto d-block"  height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center">Jaimito le pregunta a la maestra:
-                    - Maestra, ¿usted me castigaría por algo que yo no hice?
-                    - Claro que no, Jaimito.
-                    -  Ahh, pues que bueno, porque yo no hice mi tarea.</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta6 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
-            <img   src="https://i.ibb.co/NCQS6Dw/maes2.jpg" alt="maes2"  class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center">- A ver Jaimito, <BR>dime una palabra que tenga 5 ies.<BR>
-                    Y Jaimito le responde:<BR>
-                    - Pero profesora, eso es dificilísimo.<BR>
-                    - Muy bien Jaimito, muy bien.</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta7 -->
-    <div class="col-md-3">
-        <div class="card pr-3" style="width: 18rem;">
-            <img src="https://i.ibb.co/92DGJJk/maes3.jpg" alt="maes3" class="card mx-auto d-block"  height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center"> El profesor de lengua descubre a María distraída mirando por la ventana. Se dirige a ella y le pregunta:
-                    - A ver, María, dime dos pronombres.
-                    - ¿Quién? ¿Yo?</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta8 -->
-    <div class="col-md-3">
-        <div class="card pr-3" style="width: 18rem;">
-            <img  src="https://i.ibb.co/R753RXv/maes4.jpg" alt="maes4"  class="card mx-auto d-block"  height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center"> La profesora a Pepito:<BR>
-                    <BR> - Pepito,<BR> ¿no te da vergüenza ser el último de la clase?<BR>
-                    <BR>- Alguien debe sacrificarse... </h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
+
+    <!-- separador -->
+    <div id="separadorInferior2">
+        <div class="content ">
 
         </div>
     </div>
-</div>
-<!-- tarjeta9 -->
-<div class="row" style="background: #bce0ee">
-    <div class="col-md-3 p-3">
-        <div class="card" style="width: 18rem;">
-            <img   src="https://i.ibb.co/pnVkFvg/pioj.jpg" alt="pioj"  class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center"> Están dos piojos en la cabeza de un señor calvo,<br> y uno le dice al otro:
-                    <br>- Alfredo, vámonos de aquí que este terreno ya está pavimentado.</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta10 -->
-    <div class="col-md-3 p-3" >
-        <div class="card" style="width: 18rem;">
-            <img src="https://i.ibb.co/dtRrCZV/riendo2.jpg" alt="riendo2" class="card mx-auto d-block"  height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center"> <br> - ¿Qué le dice un gusano a otro gusano?<br>
-                    <br> - Me voy a dar una vuelta a la manzana.</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta11 -->
-    <div class="col-md-3 p-3">
-        <div class="card pr-3" style="width: 18rem;">
-            <img  src="https://i.ibb.co/pWCKh5v/riendo4.jpg" alt="riendo4"   class="card mx-auto d-block"   height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center"> Un ratón le dice a una rata:<br>
-                    - ¿Qué haces ahí sentada?<br>
-                    - Estoy esperando un ratito</h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-        </div>
-    </div>
-    <!-- tarjeta12 -->
-    <div class="col-md-3 p-3">
-        <div class="card pr-3" style="width: 18rem;">
-            <img src="https://i.ibb.co/rxPqG44/roendo6.jpg" alt="roendo6" class="card mx-auto d-block"  height="150" width="200">
-            <div class="card-body">
-                <h5 class="card-title" align="center"> <br><br>-¿Qué le dice un pato a otro pato?<br>
-                    <br>¡Estamos empatados!<br></h5>
-                <a href="#" class="btn btn-danger" >Audio</a>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-
-<!-- separador -->
-<div id="separadorInferior2">
-    <div class="content ">
-
-    </div>
-</div>
 
 
 
@@ -273,8 +271,8 @@
 
 
 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 </html>
