@@ -178,9 +178,6 @@
 
 </div>
 
-
-
-
         <div class="row pb-5">
             <div class="col-md-4">
                 <img alt="Bootstrap Image Preview"   src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block  bg-white "width="150"   /><h3>Números Naturales</h3>
