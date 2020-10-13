@@ -74,19 +74,9 @@ Route::get('chistes', function () {
     return view('Español/pantallaChistes');
 });
 
-/*pantalla de la clase de ciencias sociales*/
-
-Route::get('cienciasSociales', function () {
-    return view('Ciencias Sociales/pantallaPrincipalDeCienciasSociales');
-});
 
 
-/* rutas de ciencias naturales*/
 
-Route::get('cienciasNaturales', function () {
-    return view('Ciencias Naturales/pantallaPrincipalDeCienciasNaturales');
-});
-Route::get('/tipoDeCuento','españolController@index')->name('español.index');
 Route::get('/cuento',function (){
     return view('Español/cuento');
 });
@@ -114,6 +104,22 @@ Route::get('/cuentoAventuras',function (){
 Route::get('/cuentoDormir',function (){
     return view('Español/CuentosParaDormir');
 });
+
+
+
+/* rutas de ciencias naturales*/
+
+Route::get('cienciasNaturales', function () {
+    return view('Ciencias Naturales/pantallaPrincipalDeCienciasNaturales');
+});
+
+/*pantalla de la clase de ciencias sociales*/
+
+Route::get('cienciasSociales', function () {
+    return view('Ciencias Sociales/pantallaPrincipalDeCienciasSociales');
+});
+
+/*pantalla de la clase de matematica*/
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });

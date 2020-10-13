@@ -194,8 +194,10 @@
                  </a>
             </div>
             <div class="col-md-6">
+                <a href="http://learningkids.test/pantallaClaseMat">
                 <img id="image" alt="Bootstrap Image Preview" src="https://i.ibb.co/BKDtyyD/png-transparent-abacus-mathematics-computer-icons-tutor-mathematics-orange-abaco-mathematics-thumbna.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-danger rounded-circle" width="150"  />
                 <h3>Matematicas</h3>
+                    </a>
             </div>
         </div>
         <div class="row">

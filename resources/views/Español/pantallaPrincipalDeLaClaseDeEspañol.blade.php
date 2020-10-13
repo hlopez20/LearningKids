@@ -154,7 +154,9 @@
 <div class="container-fluid" style="background: #bce0ee">
     <div class="row mb-n5 ">
         <div class="col-md-12">
+            <a href="http://learningkids.test/cuento">
             <img alt="Bootstrap Image Preview" src="https://i.ibb.co/tMXgL6r/Fondocampa-removebg-preview-1.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3>Cuentos</h3>
+            </a>
         </div>
     </div>
     <div class="row pb-5">
